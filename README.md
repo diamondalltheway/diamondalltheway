@@ -14,3 +14,12 @@ I’m a full-stack Software Developer from Houston, Texas based in Medellín, Co
 ## 🌱 Technologies and Tools I want to learn:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="75" width="75" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="75" width="75" />
+
+
+## 🦜 Languages I speak:
+🇺🇸 (Native)
+🇪🇸 (B2)
+
+## Places I have lived:
+🇺🇸 (Houston, Texas)
+🇨🇴 (Medellín, Colombia)
