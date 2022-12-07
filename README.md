@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 Hi, I'm Hunter! 👋
 
-I’m a full-stack Software Developer from Houston, Texas based in Medellín, Colombia. I have experience with JavaScript, Ruby, and the following below and eager to learn more technologies along the way! 
+I’m a full-stack Software Developer from Houston, Texas based in Medellín, Colombia. I have experience with JavaScript, Ruby, and the following technologies below and eager to learn more along the way! 
 
 ## 🛠️ Technologies and Tools I have Experience with:
 <div>
