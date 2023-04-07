@@ -30,4 +30,5 @@ I’m a full-stack Software Developer from Houston, Texas based in Medellín, Co
 
 ## Places I have lived:
   🇺🇸 • Houston, Texas <br>
+  🇺🇸 • Denver, Colorado <br>
   🇨🇴  • Medellín, Colombia
