@@ -15,11 +15,6 @@ I’m a Full-Stack TypeScript/JavaScript Software Developer from Houston, Texas 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="50" />
-  </div>
-  
-  <br>
-  
-  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="50" width="50" />
     <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/cloudflare_icon_146206.png" height="50" width="50" />
     <img src="https://www.solodev.com/file/2e7ff4de-48b3-11ed-bb2e-0eaef3759f5f/stripe-icon.png" height="50" />
@@ -30,13 +25,11 @@ I’m a Full-Stack TypeScript/JavaScript Software Developer from Houston, Texas 
   <div>
     <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="50" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="50" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" width="50" />
   </div>
           
   <br>
-  
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" width="50" />
-  </div>
+ 
 
 ## 🦜 Languages I speak:
   🇺🇸 • Native <br>
