@@ -1,6 +1,7 @@
+
 ### 👨🏻‍💻 Hi, I'm Hunter! 👋
 
-I’m a full-stack Software Developer from Houston, Texas based in Medellín, Colombia. I have experience with JavaScript, Ruby, and the following technologies below and eager to learn more along the way! 
+I’m a Full-Stack TypeScript/JavaScript Software Developer from Houston, Texas based in Medellín, Colombia. I have experience with the following technologies below and eager to learn more along the way! 
 
 ## 🛠️ Technologies and Tools I have Experience with:
 <div>
@@ -14,13 +15,12 @@ I’m a full-stack Software Developer from Houston, Texas based in Medellín, Co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="50" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" width="50" /> -->
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="50" width="50" /> -->
 </div>
 
 ## 🌱 Technologies and Tools I want to learn:
 <div>
-
+  <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="50" width="50" />
 </div>
           
 
@@ -33,3 +33,4 @@ I’m a full-stack Software Developer from Houston, Texas based in Medellín, Co
   🇺🇸 • Houston, Texas <br>
   🇺🇸 • Denver, Colorado <br>
   🇨🇴  • Medellín, Colombia
+  
