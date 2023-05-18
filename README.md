@@ -16,7 +16,6 @@ I’m a Full-Stack TypeScript/JavaScript Software Developer from Houston, Texas 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="50" width="50" />
-    <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/cloudflare_icon_146206.png" height="50" width="50" />
     <img src="https://www.solodev.com/file/2e7ff4de-48b3-11ed-bb2e-0eaef3759f5f/stripe-icon.png" height="50" />
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/12_Algolia_logo_logos-512.png" height="50" />
   </div>
@@ -26,7 +25,6 @@ I’m a Full-Stack TypeScript/JavaScript Software Developer from Houston, Texas 
     <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="50" width="50" />
     <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="50" width="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1200px-Netlify_logo_%282%29.svg.png" height="50" />
   </div>
           
   <br>
