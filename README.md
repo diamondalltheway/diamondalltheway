@@ -23,7 +23,6 @@ I’m a Full-Stack TypeScript/JavaScript Software Developer from Houston, Texas 
 
 ## 🌱 Technologies and Tools I want to learn:
   <div>
-    <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="50" width="50" />
     <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="50" width="50"/>
   </div>
