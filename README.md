@@ -22,7 +22,7 @@ I’m a Full-Stack TypeScript/JavaScript Software Developer from Houston, Texas 
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/12_Algolia_logo_logos-512.png" height="50" />
   </div>
   
-## 🌱 Technologies and Tools I want to learn:
+## 🌱 Technologies and Tools I want to learn/use:
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/2880px-Netlify_logo_%282%29.svg.png" height="50" />
   </div>
