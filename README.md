@@ -3,9 +3,15 @@
 
 I am Hunter, from The Woodlands, Texas - just north of Houston. As a full-stack developer, I enjoy building applications of all kinds with people from all over the world.
 
-Personally, I am a huge fan of JavaScript, and more recently TypeScript. Although Svelte is my favorite front-end framework to use, I am learning React in an effort to expose myself to other patterns and ways of thinking.
+Personally, I am a huge fan of JavaScript, and more recently, TypeScript. Who doesn't love type safety, autocomplete, and intellisense? But where TypeScript really shines is in the way it forces us to be mindful of the code we are writing.
 
-Although I am quite proficient in Tailwind CSS, I am taking the time to revisit vanilla CSS from first principles in order to be capable of making any interface imaginable.
+As far as frameworks go, I first reach for Svelte, as it is by far my favorite framework. The developer experience ergonomically feels right and it’s a dream to use. I am also a huge fan of Rich Harris and everything he is doing to push the framework forward.
+
+
+Runner-up goes to React. Its vast community is something I highly value.
+
+
+I discovered Tailwind CSS in 2019 and have been exclusively using it ever since. Lately, I have started using DaisyUI, the Tailwind-based component library and it's gradually turning into a favorite of mine.
 
 ## 🛠️ Technologies and Tools I have Experience with:
   <div>
