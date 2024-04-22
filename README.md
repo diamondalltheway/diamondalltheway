@@ -1,9 +1,10 @@
 
-### 👨🏻‍💻 Hi, I'm Hunter! 👋
+# Hey there! 👋
 
-I am Hunter, from The Woodlands, Texas - just north of Houston. As a full-stack developer, I enjoy building applications of all kinds with people from all over the world.
 
-I am a huge fan of JavaScript, and more recently, TypeScript. The tooling is fantastic but, TypeScript's real magic lies in its ability to make us more conscious about the code we write.
+### I am Hunter, from The Woodlands, Texas - just north of Houston. As a full-stack developer, I enjoy building applications of all kinds with people from all over the world.
+
+I am a huge fan of <highlight>JavaScript</highlight>, and more recently, TypeScript. The tooling is fantastic but, TypeScript's real magic lies in its ability to make us more conscious about the code we write.
 
 As far as frameworks go, Svelte is always my first choice. The developer experience is excellent and it’s a dream to use. I am also a huge fan of Rich Harris and everything he is doing to push the framework forward.
 
@@ -11,7 +12,9 @@ As far as frameworks go, Svelte is always my first choice. The developer experie
 The runner-up goes to React. Its strong community and ecosystem are something I highly value.
 
 
-I discovered Tailwind CSS in 2019 and have been exclusively using it ever since. Lately, I have started using DaisyUI, the Tailwind-based component library and it's gradually turning into one of my favorites.
+I discovered Tailwind CSS in 2019 and have been exclusively using it ever since. Lately, I have started using Shadcn UI, the Tailwind-based component library and it's gradually turning into one of my favorites.
+
+
 
 ## 🛠️ Technologies and Tools I have Experience with:
   <div>
@@ -45,10 +48,10 @@ I discovered Tailwind CSS in 2019 and have been exclusively using it ever since.
 
 ## 🦜 Languages I speak:
   🇺🇸 • Native <br>
-  🇪🇸 • B2
+  🇪🇸 • B2 Goal - C1 (May 2025)
 
 ## Places I have lived:
   🇺🇸 • Houston, Texas <br>
   🇺🇸 • Denver, Colorado <br>
-  🇨🇴  • Medellín, Colombia
+  🇨🇴 • Medellín, Colombia
   
