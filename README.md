@@ -58,7 +58,7 @@ I discovered Tailwind CSS in 2019 and have been exclusively using it ever since.
 
 ## 🦜 Languages I speak:
   🇺🇸 • Native <br>
-  🇪🇸 • B2 Goal - C1 (May 2025)
+  🇪🇸 • B2 ... Goal - C1 (May 2025)
 
 ## Places I have lived:
   🇺🇸 • Houston, Texas <br>
