@@ -9,7 +9,7 @@ I am a huge fan of <highlight>JavaScript</highlight>, and more recently, TypeScr
 As far as frameworks go, Svelte is always my first choice. The developer experience is excellent and it’s a dream to use. I am also a huge fan of Rich Harris and everything he is doing to push the framework forward.
 
 
-The runner-up goes to React. Its strong community and ecosystem are something I highly value.
+The runner-up goes to React/Next.js. Its strong community and ecosystem are something I highly value.
 
 
 I discovered Tailwind CSS in 2019 and have been exclusively using it ever since. Lately, I have started using Shadcn UI, the Tailwind-based component library and it's gradually turning into one of my favorites. 
@@ -24,6 +24,7 @@ I discovered Tailwind CSS in 2019 and have been exclusively using it ever since.
     <img src="https://toplobster.io/bun.svg" height="50" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="50" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
     <img src="https://toplobster.io/vite.png" height="50" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" />
     <img src="https://toplobster.io/supabase.png" height="50" width="50" />
@@ -50,7 +51,6 @@ I discovered Tailwind CSS in 2019 and have been exclusively using it ever since.
 ## 🌱 Technologies and Tools I want to learn/use:
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
   </div>
         
   <br>
