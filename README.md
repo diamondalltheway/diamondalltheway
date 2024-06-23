@@ -52,6 +52,7 @@ I discovered Tailwind CSS in 2019 and have been exclusively using it ever since.
 ## 🌱 Technologies and Tools I want to learn/use:
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" />
+    <img src="https://toplobster.io/cloudflare-workers.png" height="50" />
   </div>
         
   <br>
