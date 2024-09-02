@@ -2,14 +2,14 @@
 # Hey there! 👋
 
 
-### I am Hunter, from The Woodlands, Texas - just north of Houston. As a full-stack developer, I enjoy building applications of all kinds with people from all over the world.  👨🏻‍💻 🌍
+### I am Hunter, from The Woodlands, Texas - just north of Houston. As a software developer, I enjoy building applications of all kinds with people from all over the world.  👨🏻‍💻 🌍
 
-I am a huge fan of <highlight>JavaScript</highlight>, and more recently, TypeScript. The tooling is fantastic but, TypeScript's real magic lies in its ability to make us more conscious about the code we write.
+I am a huge fan of TypeScript. The tooling is impressive, but what really stands out about TypeScript is how it encourages me to be more mindful of the code I write.
 
-As far as frameworks go, Svelte is always my first choice. The developer experience is excellent and it’s a dream to use. I am also a huge fan of Rich Harris and everything he is doing to push the framework forward.
+As far as frameworks go, 🥇 Svelte is always my first choice. The developer experience is excellent and it’s a dream to use. I am also a huge fan of Rich Harris and everything he is doing to push the framework forward.
 
 
-The runner-up goes to React/Next.js. Its strong community and ecosystem are something I highly value.
+The runner-up goes to 🥈 React/Next.js. Its strong community and ecosystem are something I highly value.
 
 
 I discovered Tailwind CSS in 2019 and have been exclusively using it ever since. Lately, I have started using Shadcn UI, the Tailwind-based component library and it's gradually turning into one of my favorites. 
