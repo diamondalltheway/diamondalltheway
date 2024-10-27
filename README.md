@@ -63,7 +63,7 @@ I discovered Tailwind CSS in 2019 and have been exclusively using it ever since.
   🇺🇸 • Native <br>
   🇪🇸 • C1
 
-## Places I have lived:
+## 📍 Places I have lived:
   🇺🇸 • Houston, Texas <br>
   🇺🇸 • Denver, Colorado <br>
   🇨🇴 • Medellín, Colombia
