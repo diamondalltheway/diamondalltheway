@@ -67,4 +67,7 @@ I discovered Tailwind CSS in 2019 and have been exclusively using it ever since.
   🇺🇸 • Houston, Texas <br>
   🇺🇸 • Denver, Colorado <br>
   🇨🇴 • Medellín, Colombia
+
+## 🍿 YouTube @HunterScript
+👉 • <a href="https://www.youtube.com/@HunterScript">Go to channel</a>
   
